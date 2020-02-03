@@ -1,0 +1,22 @@
+{
+  "name": "rollup-bug-reexporting-preservemodules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c rollup.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamranayub/rollup-bug-reexporting-preserveModules.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamranayub/rollup-bug-reexporting-preserveModules/issues"
+  },
+  "homepage": "https://github.com/kamranayub/rollup-bug-reexporting-preserveModules#readme",
+  "dependencies": {
+    "rollup": "1.31.0"
+  }
+}
